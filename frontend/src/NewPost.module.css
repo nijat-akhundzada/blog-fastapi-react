@@ -1,0 +1,31 @@
+.newpost_content {
+  width: 60%;
+  margin-bottom: 50px;
+}
+
+.newpost_image {
+  margin: 5px;
+}
+
+.newpost_creator,
+.newpost_title,
+.newpost_text {
+  font-size: small;
+  width: 100%;
+  margin: 5px;
+  padding: 5px;
+}
+
+.newpost_title {
+  font-size: large;
+}
+
+.newpost_text {
+  font-size: medium;
+}
+
+.create_button {
+  font-size: medium;
+  margin: 5px;
+  padding: 5px;
+}
